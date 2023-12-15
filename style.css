@@ -1,3 +1,31 @@
-body {
-
+body{
+  background-color: blue;
 }
+h1{
+  font-size:500%;
+  letter-spacing: 5px;
+ color: aqua;
+}
+p{
+  font-size: 200%;
+}
+img{
+  width: 50%;
+  border-style: dashed;
+  border-color: aqua;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 20px;
+  color: aqua;
+    text-decoration: none;
+  border: dashed;
+}
+li a: hover{
+  background-color: aqua;
